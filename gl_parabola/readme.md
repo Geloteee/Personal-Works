@@ -2,4 +2,4 @@
 
 There's no problem, here you have a script that makes your life easier :)
 
-[Preview](https://cdn.discordapp.com/attachments/723696788099563601/1030154719940845628/unknown.png)
+[📸 - Preview](https://cdn.discordapp.com/attachments/723696788099563601/1030154719940845628/unknown.png)
