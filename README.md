@@ -1,6 +1,7 @@
 DISCORD:
 
-- Developed By Geloteee#2901
+- Discord User: Geloteee#2901
+- Discord Server: https://discord.gg/sERxdnduDM
 
 
 GITHUB:
